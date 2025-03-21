@@ -13,6 +13,8 @@ CLASS_INDICES_PATH = "E:/PlantDiseaseDetection/model/class_indices.json"
 CURES_PATH = "E:/PlantDiseaseDetection/cures/cures.json"
 IMAGE_UPLOAD_PATH = "E:/PlantDiseaseDetection/images/"  # Ensure this folder exists
 
+# Create images directory if it doesn't exist
+os.makedirs(IMAGE_UPLOAD_PATH, exist_ok=True)
 
 # Load model and class indices
 model = tf.keras.models.load_model(MODEL_PATH)

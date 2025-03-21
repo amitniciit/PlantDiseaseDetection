@@ -7,11 +7,14 @@ from PIL import Image
 import os
 import time
 
+# Get the root directory path
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 # Load the trained model
-MODEL_PATH = "E:/PlantDiseaseDetection/model/transfer_learning_model.keras"
-CLASS_INDICES_PATH = "E:/PlantDiseaseDetection/model/class_indices.json"
-CURES_PATH = "E:/PlantDiseaseDetection/cures/cures.json"
-IMAGE_UPLOAD_PATH = "E:/PlantDiseaseDetection/images/"  # Ensure this folder exists
+MODEL_PATH = os.path.join(ROOT_DIR, "model", "transfer_learning_model.keras")
+CLASS_INDICES_PATH = os.path.join(ROOT_DIR, "model", "class_indices.json")
+CURES_PATH = os.path.join(ROOT_DIR, "cures", "cures.json")
+IMAGE_UPLOAD_PATH = os.path.join(ROOT_DIR, "images")  # Ensure this folder exists
 
 # Create images directory if it doesn't exist
 os.makedirs(IMAGE_UPLOAD_PATH, exist_ok=True)

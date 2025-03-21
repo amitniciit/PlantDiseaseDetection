@@ -1,0 +1,103 @@
+{
+  "Apple___Apple_scab": [
+    "Apply fungicides like Captan or Mancozeb.",
+    "Prune infected branches to improve air circulation.",
+    "Remove fallen leaves to reduce fungal spread."
+  ],
+  "Apple___Black_rot": [
+    "Use copper-based fungicides to prevent infection.",
+    "Destroy infected fruits and prune affected branches.",
+    "Ensure proper spacing for good air circulation."
+  ],
+  "Apple___Cedar_apple_rust": [
+    "Apply fungicides like Myclobutanil early in the season.",
+    "Remove nearby juniper trees to reduce fungal hosts.",
+    "Choose rust-resistant apple varieties."
+  ],
+  "Blueberry___healthy": [
+    "Maintain regular watering and fertilization.",
+    "Inspect for pests and fungal infections regularly.",
+    "Ensure good soil drainage."
+  ],
+  "Cherry_(including_sour)___Powdery_mildew": [
+    "Apply sulfur or potassium bicarbonate-based fungicides.",
+    "Prune trees to increase airflow.",
+    "Avoid overhead watering to keep leaves dry."
+  ],
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": [
+    "Use resistant seed varieties.",
+    "Rotate crops to break disease cycle.",
+    "Apply fungicides at early signs of infection."
+  ],
+  "Corn_(maize)___Common_rust_": [
+    "Plant rust-resistant corn hybrids.",
+    "Apply fungicides like Azoxystrobin if necessary.",
+    "Ensure proper nitrogen fertilization."
+  ],
+  "Corn_(maize)___Northern_Leaf_Blight": [
+    "Use resistant hybrids.",
+    "Plow old crop debris under to reduce spores.",
+    "Apply fungicides when conditions are favorable for infection."
+  ],
+  "Grape___Black_rot": [
+    "Prune and destroy infected leaves and vines.",
+    "Apply fungicides like Mancozeb or Myclobutanil.",
+    "Avoid excessive nitrogen fertilization."
+  ],
+  "Orange___Haunglongbing_(Citrus_greening)": [
+    "Remove infected trees to prevent spread.",
+    "Use insecticides to control psyllids.",
+    "Plant disease-free citrus trees."
+  ],
+  "Peach___Bacterial_spot": [
+    "Apply copper-based bactericides during early stages.",
+    "Avoid overhead irrigation.",
+    "Remove and destroy infected leaves."
+  ],
+  "Potato___Early_blight": [
+    "Use fungicides containing Chlorothalonil.",
+    "Rotate crops to reduce fungal buildup.",
+    "Ensure proper plant nutrition."
+  ],
+  "Potato___Late_blight": [
+    "Apply fungicides like Metalaxyl.",
+    "Remove and destroy infected plants.",
+    "Avoid overhead watering."
+  ],
+  "Strawberry___Leaf_scorch": [
+    "Improve air circulation by proper spacing.",
+    "Apply fungicides like Captan.",
+    "Water plants at the base to avoid wetting leaves."
+  ],
+  "Tomato___Bacterial_spot": [
+    "Use copper-based bactericides.",
+    "Avoid planting tomatoes near infected crops.",
+    "Practice crop rotation."
+  ],
+  "Tomato___Early_blight": [
+    "Apply fungicides containing Mancozeb or Chlorothalonil.",
+    "Remove infected leaves immediately.",
+    "Avoid overhead watering."
+  ],
+  "Tomato___Late_blight": [
+    "Use fungicides like Metalaxyl or Copper sprays.",
+    "Destroy infected plants to prevent spread.",
+    "Avoid planting tomatoes near potatoes."
+  ],
+  "Tomato___Septoria_leaf_spot": [
+    "Apply fungicides containing Chlorothalonil.",
+    "Space plants properly to improve airflow.",
+    "Mulch soil to prevent fungal spores from splashing."
+  ],
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": [
+    "Control whitefly populations using insecticides.",
+    "Plant virus-resistant tomato varieties.",
+    "Remove and destroy infected plants."
+  ],
+  "Tomato___Tomato_mosaic_virus": [
+    "Avoid handling plants when wet.",
+    "Disinfect tools regularly.",
+    "Remove and destroy infected plants."
+  ],
+  "healthy": ["No action needed. Keep maintaining good agricultural practices."]
+}
